@@ -1,10 +1,10 @@
 # hw9
 
 Для начала я удалила все пустые строки с помощью функции "Удалить Пустые Строки". 
-![](https://github.com/KarinaSadykhova/hw9/blob/master/oAkB_LEYOtQ.jpg)
+![](https://github.com/KarinaSadykhova/hw9/blob/master/1.jpg)
 
 Затем я нашла все упоминания князей и городов имя и название которых оканчивается на "слав". Я использовала регулярное выражение: [А-Я][а-я]+слав[^\s.,\?!:;-]. Всего упоминаний о князьях и городах нашла: 96.
-![](https://github.com/KarinaSadykhova/hw9/blob/master/WzO73aAuCOM.jpg)
+![](https://github.com/KarinaSadykhova/hw9/blob/master/2.jpg)
 
 Потом я нашла все упоминания Новгорода. Я использовала регулярное выражение: Нов(ѣ|ъ|а|у)?город(ѣ|ъ|цю|а|у)? Всего упоминаний Новгорода нашла: 19
-![](https://github.com/KarinaSadykhova/hw9/blob/master/1.jpg)
+![](https://github.com/KarinaSadykhova/hw9/blob/master/3.jpg)
